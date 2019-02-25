@@ -22,4 +22,3 @@ function sayHiToGrandma(hello) {
   if (sayHiToGrandma ==="I Love you,Grandma.") {
    return "I love you, too."
  }
-
