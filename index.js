@@ -20,7 +20,7 @@ function sayHiToGrandma(hello) {
     return "YES INDEED!"
     }
   if (sayHiToGrandma ==="I Love you,Grandma.") {
-   return "I love you, too"
+   return "I love you, too."
  }
 
  return "Are you eating enough?"
