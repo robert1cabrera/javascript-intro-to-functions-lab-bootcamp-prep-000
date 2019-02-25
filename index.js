@@ -23,5 +23,5 @@ function sayHiToGrandma(hello) {
    return "I love you, too."
  }
 
- return "I love you, too"
+ return "I love you, too."
  }
